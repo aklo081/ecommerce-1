@@ -84,7 +84,7 @@ web_modules/
 .env.local
 .hash
 note.txt
-uploads
+upload
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
